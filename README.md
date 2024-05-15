@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EdwardChasel
+- 👋 Hi, I’m @Chaodong Xiao
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on ...
